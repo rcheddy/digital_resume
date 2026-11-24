@@ -1,0 +1,13 @@
+# Rachel Chidester — Professional Profile
+
+Website for Rachel Chidester, a Michigan-based program manager with experience in scientific research operations, education and fellowship programs, healthcare, reporting, budgets, and process improvement.
+
+- Resume HTML: ./index.html
+- Structured resume: ./resume.json
+- Plain-text resume: ./resume.txt
+- Downloadable PDF resume: ./Rachel_Chidester_Resume.pdf
+- LinkedIn: https://www.linkedin.com/in/rachelchidester/
+
+Relevant expertise: scientific research program coordination, nonprofit and international educational programs, stakeholder management, budgets and grant reporting, process improvement, Power BI, Dynamics CRM, Microsoft Power Platform, clinical team communication, and incident response.
+
+The site does not claim direct experience in biomedical drug-development research, formal clinical trial operations, or currently active athletic trainer certification.
